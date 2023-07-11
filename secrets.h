@@ -4,3 +4,6 @@
 
 #define SSID "Diego"
 #define SSID_PASSWORD "drack9811"
+
+
+//This code contain the SSID and password for WiFi connection ESP32
